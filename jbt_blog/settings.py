@@ -24,7 +24,7 @@ SECRET_KEY = '1ek)3z+-*)(&1c&3fv=2*=lr_cyst85w&a4y#5!2m*ik@=&!p0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.122333.tech']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'demo1.jinbitou.net']
 
 
 # Application definition
