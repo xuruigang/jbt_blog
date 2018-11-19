@@ -11,36 +11,6 @@
   
 ## Front page
 
-![1](http://7xljc2.com1.z0.glb.clouddn.com/20180315_1.png)
-
-
-![2](http://7xljc2.com1.z0.glb.clouddn.com/20180315_2.png)
-
----
-
-![3](http://7xljc2.com1.z0.glb.clouddn.com/20180315_3.png)
-
----
-
-![4](http://7xljc2.com1.z0.glb.clouddn.com/20180315_4.png)
-
----
-
-## Backend page
-![1](http://7xljc2.com1.z0.glb.clouddn.com/20180315_5.png)
-
----
-
-![2](http://7xljc2.com1.z0.glb.clouddn.com/20180315_6.png)
-
----
-![3](http://7xljc2.com1.z0.glb.clouddn.com/20180309-4.png)
-
----
-
-![4](http://7xljc2.com1.z0.glb.clouddn.com/20180315_7.png)
-
----
 
 ## Completed
 
