@@ -2,7 +2,6 @@
 
 一个基于`python3.6`和`Django2.0`的博客。 
 
-A simple blog based on `python3.6` and `Django2.0`.
 
 ## requirement
 - Django==2.0.3
@@ -59,21 +58,6 @@ A simple blog based on `python3.6` and `Django2.0`.
 - 点击图标回到顶部
 - 文章按月归档
 
-#### EN
-- Article management, including adding, deleting and editing
-- Classified management, including adding, deleting and editing
-- Tag management, including adding, deleting and editing
-- List page shows summary information, time of release, category, number of visits
-- Pagination display
-- Click "read the full text" to display the details of the article
-- Pages plus one per view
-- Search by category
-- Search by tag
-- switch between previous and next articles
-- One-click back to the top
-- Monthly archive
-
-## TO-DO
 
 #### CN
 
